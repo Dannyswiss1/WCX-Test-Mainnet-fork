@@ -1,7 +1,8 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.9;
+pragma solidity ^0.8.24;
 
-interface IERC20{
+interface IERC20 {
     function approve(address _spender, uint _value) external;
-    function balanceOf(address who) external view returns(uint256 balance);
+
+    function balanceOf(address who) external view returns (uint256 balance);
 }
