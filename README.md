@@ -1,13 +1,9 @@
-# Sample Hardhat Project
+## Uniswap V2 Mainnet Fork
+### Screenshots
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+#### Swap Tokens For Exact Tokens 
+![Screenshot from 2024-02-26 20-18-53](https://github.com/Dannyswiss1/WCX-Test-Mainnet-fork/assets/137540755/e5aea8f1-18bc-45b4-b0f5-bfa9fe437788)
 
-Try running some of the following tasks:
+#### Add Liquidity
+![Screenshot from 2024-02-26 20-18-05](https://github.com/Dannyswiss1/WCX-Test-Mainnet-fork/assets/137540755/8187a6f1-f9c5-4044-b41f-f1004ed27e5d)
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
